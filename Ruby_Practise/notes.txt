@@ -7,3 +7,19 @@ object of class is created using new keyword
 
 
 Intialzing : constructor
+
+5 type of variable in ruby
+    Global Variable  - with $ nil if not assigned any thing -w warning
+    Instance Variable  - with @
+--
+
+Psedo-Variables
+    self : the reciever object of the current method
+    true : Value represeting true
+    false : value represeting false
+    nil : value represeting undefined
+    __FILE__ : the name of current source file 
+    __LINE__ : The current line number of Source file
+
+
+ruby hashes : list of  key/values
