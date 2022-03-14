@@ -1,0 +1,9 @@
+Instance Variable :  instance Variable are perceded by the sign(@)
+Class Variable : sign(@@)
+Glolba Variable : sign($)
+---
+class start with keyword class end with keyword end
+object of class is created using new keyword
+
+
+Intialzing : constructor
