@@ -23,3 +23,8 @@ Psedo-Variables
 
 
 ruby hashes : list of  key/values
+
+
+a + b is interpreted as a.+(b) where the + method in the object referred to by variable a is called with b as its argument.
+
+defined help us to identify wether things are defined or not
